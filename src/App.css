@@ -72,3 +72,11 @@
   cursor: pointer;
   background-color: #3949ab;
 }
+
+@media (max-width: 768px) {
+  .menu {
+    width: auto;
+    padding: 1rem;
+    margin: 1rem;
+  }
+}

@@ -79,4 +79,16 @@
     padding: 1rem;
     margin: 1rem;
   }
+
+  .quiz {
+    width: auto;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+  }
+
+  .endScreen {
+    width: auto;
+    padding: 15px;
+  }
 }
